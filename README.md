@@ -232,7 +232,7 @@ python3.11 twitter_stock_scraper.py
 python3.11 llm_analyse.py
 ```
 
-Each step is safe to re-run. The scraper merges and deduplicates; the analyser skips already-processed rows. But you only need to add your Twitter login credentials.
+Each step is safe to re-run. The scraper merges and deduplicates; the analyser skips already-processed rows. But you only need to add your Twitter login credentials and possibly update the `cookies.json` with your logged in cookies, by using a cookie extractor Google extension.
 
 ---
 
