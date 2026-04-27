@@ -642,9 +642,9 @@ def parse_tweet_time(tweet) -> Optional[pd.Timestamp]:
 # =========================================
 
 # ── YOUR CREDENTIALS ──────────────────────────
-USERNAME = "Omaruwe27"
-EMAIL    = "omar2.halasa@live.uwe.ac.uk"
-PASSWORD = "Omaromar12"
+USERNAME = ""
+EMAIL    = ""
+PASSWORD = ""
 # ─────────────────────────────────────────────
 
 async def get_client() -> Client:
